@@ -16,8 +16,8 @@ AI/ML Researcher and Full-Stack Developer based in Bangladesh. My work spans Com
 |---|---|---|
 | [stylenet-new](https://github.com/nishatmahi/stylenet-new) | Neural text style transfer using GRU sequence models | Python, PyTorch, NLP |
 | [Medthink-Code](https://github.com/nishatmahi/Medthink-Code) | AI-powered medical reasoning with LLMs | Python, LLM |
-| [Stylenet_Bengali](https://github.com/nishatmahi/Stylenet_Bengali) | Bengali NLP - controllable factual text generation | Python, NLP |
-| [pdf-to-markdown](https://github.com/nishatmahi/pdf-to-markdown) | PDF to Markdown OCR pipeline for RAG ingestion | Python, OCR |
+| [spa-and-salon-website](https://github.com/nishatmahi/spa-and-salon-website) | Full-stack salon management platform with admin panel, bookings, and service listings | PHP, Laravel |
+| [Beauty-Salon-React-website](https://github.com/nishatmahi/Beauty-Salon-React-website) | Modern salon website with booking flow and responsive design | React, TypeScript |
 | [Beauty-Salon-OpenGL-Project](https://github.com/nishatmahi/Beauty-Salon-OpenGL-Project) | Real-time 3D animated salon with OpenGL lighting | C++, OpenGL |
 | [Attacker-Vs-Defender-Game](https://github.com/nishatmahi/Attacker-Vs-Defender-Game) | AI-controlled adversarial strategy game | Python, AI |
 | [404-project](https://github.com/nishatmahi/404-project) | Full-stack Kanban + image annotation workspace | Next.js, Django |
