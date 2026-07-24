@@ -2,10 +2,10 @@
 
 AI/ML Researcher and Full-Stack Developer based in Bangladesh. My work spans **Computer Vision**, **Natural Language Processing**, and **Multimodal Learning** — from neural text style transfer and low-resource Bengali NLP to LLM-powered document intelligence and 3D graphics programming.
 
-## Research Focus
+## Research & Engineering Focus
 
-- **NLP** — Neural text style transfer, controllable generation, Bengali language modeling
-- **Computer Vision** — Image annotation, OpenGL 3D rendering, visual intelligence
+- **NLP** — Neural text style transfer, controllable text generation, Bengali language modeling
+- **Computer Vision** — Image annotation systems, OpenGL 3D rendering, visual intelligence
 - **Multimodal Learning** — Bridging vision and language for richer AI systems
 - **LLM & RAG** — Prompt engineering, document analysis pipelines, AI agents
 - **Full-Stack** — Production REST APIs with Django, modern frontends with Next.js
@@ -28,7 +28,7 @@ AI/ML Researcher and Full-Stack Developer based in Bangladesh. My work spans **C
 
 **Backend:** Python, Django REST Framework, Node.js, JWT
 
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS, OpenGL
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS, OpenGL (C++)
 
 **Tools:** Git, SQLite, PostgreSQL, Vercel, PythonAnywhere
 
